@@ -1,0 +1,28 @@
+package univ93;
+import java.util.*;
+public class Main {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		int h = sc.nextInt();
+		int m = sc.nextInt();
+		if(h>=0 && h<=23 && m>=0 && m<=59) {
+		if(m<=45) { //분이 45분 이하 일때는 시간이 -1 되게 설정
+			h--;
+		}
+		m = m + 15;
+		
+		if(h<0) {
+			h = 23;
+		}
+		System.out.println(h + " " + m);
+		
+		
+	}
+		else {
+			System.out.println("error");
+		}
+	}
+}
+//try : 1
+//but worng problem
