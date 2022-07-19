@@ -1,0 +1,39 @@
+package backjoon;
+import java.util.*;
+public class Main {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		System.out.print("현재 시간은: ");
+		int hour = sc.nextInt();int minute = sc.nextInt();
+		System.out.print("가동 시간을 정하세요: ");
+		int time = sc.nextInt();
+		
+		if(hour>=0 && hour<=23 && minute>=0 && minute<=59) {
+			if(minute>=0 && minute<= 1000) {
+			hour += time/60; minute += time%60;
+		
+			if(minute==60) {
+			
+				hour += 1;
+				minute = 0;
+		}
+		
+			if(minute>60) {
+			
+				hour += minute/60;
+				minute= minute%60;
+		}
+		
+			if(hour >= 24) {
+			
+				hour = hour % 24;
+		}
+		
+		
+		
+		System.out.println(hour + " " + minute);
+			}
+	}
+	}
+}
