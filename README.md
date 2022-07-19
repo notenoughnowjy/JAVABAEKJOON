@@ -29,10 +29,8 @@ try : 1
 https://www.acmicpc.net/problem/2525
 
 try : 3
-
-정진
-
 ---
+정진
 
 ## 2022.7.21
 ---
