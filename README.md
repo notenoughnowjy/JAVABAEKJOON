@@ -34,6 +34,12 @@ try : 3
 
 ## 2022.7.21
 ---
-###
+### for - 구구단
+
+https://www.acmicpc.net/problem/2739
+---
+### for - 두 수의 덧셈
+
+https://www.acmicpc.net/problem/10950
 
 
