@@ -65,5 +65,16 @@ try:1
 
 https://www.acmicpc.net/problem/2439
 ---
+## 2022.08.08
+---
+### 10871
+
+
+https://www.acmicpc.net/problem/10871
+---
+### 10952
+
+https://www.acmicpc.net/problem/10952
+
 
 
