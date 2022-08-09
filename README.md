@@ -75,6 +75,12 @@ https://www.acmicpc.net/problem/10871
 ### 10952
 
 https://www.acmicpc.net/problem/10952
+---
+## 2022.08.09
+---
+### 10951
+
+https://www.acmicpc.net/problem/10951
 
 
 
