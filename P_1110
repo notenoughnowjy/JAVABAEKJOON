@@ -21,3 +21,4 @@ public class P_1110 {
 		}
 		System.out.println(count);
 	}
+}
