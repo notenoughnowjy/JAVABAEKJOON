@@ -46,7 +46,7 @@ https://www.acmicpc.net/problem/10950
 
 try:1
 ---
-###for - 빠른 A+B
+###for  빠른 A+B
 
 https://www.acmicpc.net/problem/15552
 
@@ -81,6 +81,14 @@ https://www.acmicpc.net/problem/10952
 ### 10951
 
 https://www.acmicpc.net/problem/10951
+---
+## 2022.08.11
+---
+### 1110
+
+https://www.acmicpc.net/problem/1110
+---
+##
 
 
 
