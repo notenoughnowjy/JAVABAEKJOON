@@ -1,0 +1,23 @@
+import java.util.*;
+public class P_1110 {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		int A = sc.nextInt();
+		int sum = A;
+		int count = 0;
+		while(true) {
+			int B = sum/10;
+			int C = sum%10;
+			sum = C*10 + (B+C)%10;
+			count++;
+			if(A == sum) {
+				break;
+			}
+			
+			
+
+			
+		}
+		System.out.println(count);
+	}
