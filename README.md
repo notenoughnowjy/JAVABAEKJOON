@@ -104,6 +104,12 @@ https://www.acmicpc.net/problem/2562
 
 https://www.acmicpc.net/problem/3052
 ---
+## 2022.08.19
+---
+### 1546
+
+https://www.acmicpc.net/problem/1546
+---
 
 
 
